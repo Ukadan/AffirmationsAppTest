@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  AffirmationsApp
+
+  Created by Ali on 01.08.2024.
+  
+*/
+
+"Love" = "Любовь";
+"Friendship" = "Дружба";
+"Red" = "Красный";
+"Blue" = "Синий";
+"Female" = "Женский";
+"Male" = "Мужской";
+"Continue" = "Продолжить";
+"Category" = "Категория";
+"Background_Color" = "Цвет заднего фона";
+"Gender" = "Пол";
+"Language" = "Язык";
